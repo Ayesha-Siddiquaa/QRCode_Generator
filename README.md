@@ -12,7 +12,7 @@
 
 1. Make sure you have Python installed on your system. 
 2. Clone this repository to your local machine:
-     - git clone https://github.com/Ayesha-Siddiquaa/QRCode-Generator.git
+     - git clone https://github.com/Ayesha-Siddiquaa/QRCode_Generator.git
 3. Navigate to the project directory:
      - cd QRCode-Generator
 4. Install the required dependencies:
