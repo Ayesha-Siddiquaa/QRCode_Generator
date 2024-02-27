@@ -27,4 +27,8 @@
 4. Preview the generated QR code in the application window.
 5. Click on the "Share" button to share the QR code through WhatsApp.
 
+## Generated QR
+
+![QR Code](QR_Code.png)
+
 
